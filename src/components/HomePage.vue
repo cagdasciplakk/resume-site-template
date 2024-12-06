@@ -12,10 +12,10 @@
             Gemeinsam erreichen wir<br />
             <span class="text-gradient">Ihre geschäftlichen Ziele</span>
           </h1>
-          <p class="lead text-muted">
-            Als Account Manager unterstütze ich Unternehmen dabei, ihre
-            Zielgruppen besser zu erreichen, effektive Strategien zu entwickeln
-            und erfolgreiche Ergebnisse zu erzielen.
+          <p class="lead " style="color: azure;">
+            Mit umfassender Erfahrung im Account Management unterstütze ich Unternehmen dabei,
+             ihre Kundenbasis zu erweitern, Markttrends zu analysieren und innovative Lösungen zu entwickeln,
+              die zu nachhaltigem Wachstum führen.
           </p>
           <div class="buttons mt-4">
             <router-link to="/resume" class="btn btn-primary btn-lg me-3">Lebenslauf</router-link>
@@ -52,10 +52,21 @@
     <div class="contact-section bg-light ">
       <div class="container text-center mb-4">
         <h2 class="text-primary">Kontaktiere mich</h2>
-        <p class="mb-3"> Sie können mich gerne per E-Mail kontaktieren:</p>
+        <div class="row">
+          <div class="col">
+            <p class="mb-3">E-Mail:</p>
         <a href="mailto:sevgiciplak@outlook.de" class="btn btn-outline-primary">
           sevgiciplak@outlook.de
         </a>
+          </div>
+          <div class="col">
+            <p class="mb-3">Telefonnummer:</p>
+            <a href="tel:1711268338" class="btn btn-outline-primary">
+          +49 171 126 8338
+        </a>
+          </div>
+        </div>
+        
       </div>
   </div>
   </div>
