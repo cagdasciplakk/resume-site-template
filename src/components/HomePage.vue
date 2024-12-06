@@ -62,7 +62,7 @@
           </div>
           <div class="col">
             <p class="mb-3">Telefonnummer:</p>
-            <a href="tel:1711268338" class="btn btn-outline-primary">
+            <a href="tel:01711268338" class="btn btn-outline-primary">
           +49 171 126 8338
         </a>
           </div>
