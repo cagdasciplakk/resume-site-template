@@ -276,4 +276,11 @@ body {
 .badge {
   font-size: 14px;
 }
+.skills-section {
+  display: block;
+  visibility: visible;
+  opacity: 1;
+  height: auto;
+  overflow: visible;
+}
 </style>
