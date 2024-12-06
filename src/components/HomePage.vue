@@ -38,10 +38,11 @@
       <div class="container">
         <h2 class="text-primary text-center">Über mich</h2>
         <p class="text-muted text-center mt-3 mx-auto" style="max-width: 700px;">
-          Ich bin ein erfahrener Account Manager mit einer Leidenschaft für
-          Kommunikation, Kundenerfolg und Geschäftswachstum. Mein Ziel ist es,
-          nachhaltige Beziehungen zu Kunden aufzubauen und ihren Erfolg zu
-          sichern.
+          Ich bin Sevgi, eine kommunikative und zielorientierte Persönlichkeit. Im Vertrieb liegt meine Stärke darin,
+           die richtigen Fragen zu stellen und dadurch passgenaue Lösungen für meine Kunden zu finden. Ich bin überzeugt,
+            dass der Schlüssel zum Erfolg in einem selbst liegt – in der Kombination aus Sympathie, Respekt, Verständnis,
+             Fleiß und Hartnäckigkeit. Meine Kunden stehen für mich an erster Stelle,
+           und durch engagierten Service und stetige Betreuung baue ich langfristige, erfolgreiche Beziehungen auf.
         </p>
         <div class="social-icons mt-4 text-center">
           <a href="https://de.linkedin.com/in/sevgi-ciplak-736412293"  target="_blank" class="text-primary mx-2"><i class="fab fa-linkedin fa-2x"></i></a>
