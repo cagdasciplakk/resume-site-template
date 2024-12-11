@@ -3,7 +3,7 @@
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary shadow-sm">
       <div class="container">
-        <router-link to="/" class="navbar-brand fw-bold">Sevgi Ciplak</router-link>
+        <router-link to="/" class="navbar-brand fw-bold">Personal Site</router-link>
         <button
             class="navbar-toggler"
             type="button"
@@ -18,10 +18,10 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ms-auto">
             <li class="nav-item">
-              <router-link to="/" class="nav-link">Startseite</router-link>
+              <router-link to="/" class="nav-link">Home</router-link>
             </li>
             <li class="nav-item">
-              <router-link to="/resume" class="nav-link">Lebenslauf</router-link>
+              <router-link to="/resume" class="nav-link">Resume</router-link>
             </li>
           </ul>
         </div>
@@ -36,7 +36,7 @@
     <!-- Footer -->
     <footer class="bg-primary text-white text-center py-3 mt-auto">
       <div class="container">
-        <p class="mb-0">© 2024 Sevgi Ciplak. Alle Rechte vorbehalten.</p>
+        <p class="mb-0">© 2024 Personal Site. All Rights Reserved.</p>
 
       </div>
     </footer>
@@ -50,16 +50,16 @@ export default {
 </script>
 
 <style>
-/* Genel stil ayarları */
+
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   margin: 0;
-  background-color: #f8f9fa; /* Sayfa arka planı */
+  background-color: #f8f9fa; 
   color: #333;
 }
 
-/* Footer ve Header uyumu */
+
 footer {
   font-size: 14px;
   border-top: 1px solid rgba(255, 255, 255, 0.2);
